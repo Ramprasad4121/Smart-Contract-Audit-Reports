@@ -16,6 +16,7 @@ Whether you're a developer seeking insights, a project lead preparing for launch
 - [Smart Contract Audit Reports](#smart-contract-audit-reports)
 	- [Table of Contents](#table-of-contents)
 	- [About](#about)
+	- [Published Reports](#published-reports)
 	- [Methodology](#methodology)
 	- [Tools \& Resources](#tools--resources)
 	- [Roadmap](#roadmap)
@@ -35,7 +36,18 @@ This repository is more than a collection of PDFs—it's a testament to rigorous
 
 I prioritize severity-based triage using a DREAD-inspired matrix (Damage, Reproducibility, Exploitability, Affected Users, Discoverability).
 
+## Published Reports
 
+| Protocol | Category / Ecosystem | Findings Summary | Report Link |
+|:---|:---|:---|:---:|
+| **TimbSwap** | DeFi Governance & Release Vault (Arbitrum) | 1 High, 2 Medium | [View PDF](TimbSwap-Security-Audit-Report.pdf) |
+| **MetaLend** | Solana Lending Protocol (Rust / Anchor) | 2 Critical, 9 High, 2 Medium | [View PDF](MetaLend%20Security%20Audit%20Report.pdf) |
+| **Vault Guardians** | DeFi Yield & Vault Management (EVM) | 3 High, 1 Medium, 2 Low | [View PDF](vault-guardians.pdf) |
+| **ThunderLoan** | Flash Loan Protocol (EVM) | 2 High, 2 Medium, 2 Low | [View PDF](Thunder-Loan-Audit-Report.pdf) |
+| **BossBridge** | Cross-Chain Token Bridge (EVM) | 4 High, 1 Medium, 1 Low | [View PDF](Boss-Bridge-Audit-Report.pdf) |
+| **TSwap** | Automated Market Maker / DEX (EVM) | 4 High, 2 Medium, 2 Low | [View PDF](tswap-audit.pdf) |
+| **PuppyRaffle** | NFT Raffle Protocol (EVM) | 4 High, 3 Medium | [View PDF](Puppy-Raffle-Audit-Report.pdf) |
+| **PasswordStore** | On-Chain Password Vault (EVM) | 2 High | [View PDF](PasswordStore-Audit-Report.pdf) |
 
 ## Methodology
 
